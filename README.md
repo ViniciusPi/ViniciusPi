@@ -3,6 +3,7 @@ I'm a Electrical engineering student who had falled in love with programming in 
 #### if you feel interested, please check out my repositories here in GitHub, my Linkedin porfile and my personal portfolio.
 
 >linkedin: www.linkedin.com/in/vinicius-pires-caminha
->>web page: https://viniciuspi.github.io/#/
+
+>web page: https://viniciuspi.github.io/#/
 
 
